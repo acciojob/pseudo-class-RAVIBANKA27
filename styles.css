@@ -10,7 +10,7 @@ p::before{
 }
 
 p::after{
-	content:" afterContent";
 	color:rgb(255,0,0);
+	content:" After Element";
 	font-size:20px;
 }
